@@ -8,7 +8,7 @@ This project is developed using C programming.
 - Bill generation
 
 ## Team Members
-- Bhavika Bhandari (Team Leader)
+- Bhavika Bhandari 
 - Prerna Bisht
 - Varun Bhandari
 - Arth Arora
