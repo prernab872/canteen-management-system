@@ -1,0 +1,59 @@
+CANTEEN MANAGEMENT SYSTEM - PROJECT REPORT
+
+------------------------------------------
+TASKS COMPLETED
+------------------------------------------
+
+1. Designed the structure of the program including menu display, order handling, and billing system.
+
+2. Implemented the core logic using C programming concepts such as loops and conditional statements.
+
+3. Developed functions for modular programming:
+   - Display Menu
+   - Calculate Price
+   - Generate Bill
+
+4. Enabled multiple order handling in a single session.
+
+5. Implemented basic input validation to handle invalid user choices.
+
+------------------------------------------
+TASKS PENDING
+------------------------------------------
+
+1. File Handling:
+   - Store menu items and prices in external files instead of hardcoding.
+
+2. Admin Module:
+   - Add, update, or delete menu items.
+   - Modify prices dynamically.
+
+3. User Interface Improvement:
+   - Improve formatting of menu and bill display.
+
+4. Advanced Features:
+   - Order history
+   - Better error handling
+
+------------------------------------------
+PROJECT OUTCOME
+------------------------------------------
+
+1. Developed a basic canteen management system using C.
+
+2. Automated billing system reduces manual calculation errors.
+
+3. Modular structure makes code easy to understand and maintain.
+
+4. Supports multiple orders and generates total bill efficiently.
+
+5. Provides a foundation for future enhancements like file handling and admin control.
+
+------------------------------------------
+TEAM MEMBERS
+------------------------------------------
+
+Member 1: Bhavika Bhandari
+Member 2: Prerna Bisht
+Member 3: Varun Bhandari
+Member 4: Arth Arora
