@@ -62,6 +62,4 @@ This project helps to:
 - Assisted in debugging and output formatting
 
 --------------------------------------------------------------------------------
-
-# 📌 Conclusion
 This project is useful for understanding real-world implementation of C programming concepts like file handling, structures, functions, and menu-driven programs. It provides a simple and efficient way to manage canteen operations.
