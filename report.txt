@@ -1,59 +1,67 @@
 CANTEEN MANAGEMENT SYSTEM - PROJECT REPORT
 
-------------------------------------------
-TASKS COMPLETED
-------------------------------------------
 
-1. Designed the structure of the program including menu display, order handling, and billing system.
+##  Introduction
+The Canteen Management System is a simple project developed using C programming language.  
+It helps in managing food items, customer orders, and bill generation in an easy and efficient way using file handling and structures.
 
-2. Implemented the core logic using C programming concepts such as loops and conditional statements.
+## This Project is Needed
+Managing a canteen manually can be time-consuming and confusing.  
+This project helps to:
+- Reduce manual work
+- Manage menu items easily
+- Generate bills automatically
+- Store records using files
+- Improve order management
 
-3. Developed functions for modular programming:
-   - Display Menu
-   - Calculate Price
-   - Generate Bill
+--------------------------------------------------------
 
-4. Enabled multiple order handling in a single session.
+#  How the Project Works
+1. Admin logs into the system.
+2. Admin can add or delete food items from the menu.
+3. Customers can view the menu and place orders.
+4. The system calculates the total bill automatically.
+5. Bill details are saved in a file.
 
-5. Implemented basic input validation to handle invalid user choices.
+-----------------------------------------------------
 
-------------------------------------------
-TASKS PENDING
-------------------------------------------
+#  Features
+- Admin Login
+- Menu Display
+- Add Food Items
+- Delete Food Items
+- Order Handling
+- Automatic Bill Generation
 
-1. File Handling:
-   - Store menu items and prices in external files instead of hardcoding.
+----------------------------------------------------
 
-2. Admin Module:
-   - Add, update, or delete menu items.
-   - Modify prices dynamically.
+# Technologies Used
+- C Language
+- File Handling
+- Structures
+- Functions
 
-3. User Interface Improvement:
-   - Improve formatting of menu and bill display.
+-------------------------------------------------------
 
-4. Advanced Features:
-   - Order history
-   - Better error handling
+# Team Members & Work Distribution
 
-------------------------------------------
-PROJECT OUTCOME
-------------------------------------------
+## Bhavika Bhandari
+- Worked on Admin Login module
+- Helped in menu management functions
 
-1. Developed a basic canteen management system using C.
+## Prerna Bisht
+- Worked on Order Handling and Bill Generation
+- Managed file handling operations
 
-2. Automated billing system reduces manual calculation errors.
+## Varun Bhandari
+- Developed Menu Display and Add/Delete Item functions
+- Helped in testing the project
 
-3. Modular structure makes code easy to understand and maintain.
+## Arth Arora
+- Worked on program structure and documentation
+- Assisted in debugging and output formatting
 
-4. Supports multiple orders and generates total bill efficiently.
+--------------------------------------------------------------------------------
 
-5. Provides a foundation for future enhancements like file handling and admin control.
-
-------------------------------------------
-TEAM MEMBERS
-------------------------------------------
-
-Member 1: Bhavika Bhandari
-Member 2: Prerna Bisht
-Member 3: Varun Bhandari
-Member 4: Arth Arora
+# 📌 Conclusion
+This project is useful for understanding real-world implementation of C programming concepts like file handling, structures, functions, and menu-driven programs. It provides a simple and efficient way to manage canteen operations.
